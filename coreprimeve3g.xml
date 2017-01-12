@@ -24,4 +24,5 @@
 	<project path="hardware/sprd" name="koquantam/android_hardware_sprd" remote="github" revision="cm-14.1"/>
 	<project path="kernel/samsung/coreprimeve3g" name="koquantam/android_kernel_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/coreprimeve3g" name="koquantam/android_vendor_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/scx30g_v2-common" name="koquantam/android_vendor_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
 </manifest>
