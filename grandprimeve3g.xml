@@ -20,10 +20,10 @@
 	
 	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-13.0"/>
 	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-13.0"/>
-	<project path="device/samsung/sprd-common" name="koquantam/android_device_samsung_sprd-common" remote="github" revision="cm-13.0"/>
-	<project path="device/samsung/grandprimeve3g" name="koquantam/android_device_samsung_grandprimeve3g" remote="github" revision="cm-13.0"/>
-	<project path="hardware/sprd" name="koquantam/android_hardware_sprd" remote="github" revision="cm-13.0"/>
-	<project path="kernel/samsung/grandprimeve3g" name="koquantam/android_kernel_samsung_grandprimeve3g-CORE" remote="github" revision="cm-14.1"/>
-	<project path="vendor/samsung/grandprimeve3g" name="koquantam/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-13.0"/>
-	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="koquantam/linaro-6.2" remote="github" revision="master"/>
+	<project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="cm-13.0"/>
+	<project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="github" revision="cm-13.0"/>
+	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-13.0"/>
+	<project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-CORE" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/grandprimeve3g" name="remilia15/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-13.0"/>
+	<project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="remilia15/linaro-6.2" remote="github" revision="master"/>
 </manifest>
