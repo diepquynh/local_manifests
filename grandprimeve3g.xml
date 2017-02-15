@@ -22,6 +22,7 @@
 	<remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
 
 	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
 	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
 	<project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
 	<project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
