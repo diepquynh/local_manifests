@@ -23,6 +23,7 @@
 	<project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
 	<project path="device/samsung/core33g" name="remilia15/android_device_samsung_core33g" remote="github" revision="cm-14.1"/>
 	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
 	<project path="kernel/samsung/core33g" name="remilia15/android_kernel_samsung_core33g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/core33g" name="remilia15/android_vendor_samsung_core33g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/scx30g-common" name="remilia15/android_vendor_samsung_scx30g-common" remote="github" revision="cm-14.1"/>
