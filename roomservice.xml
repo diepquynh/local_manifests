@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="SuperLamic/proprietary_vendor_sony" path="vendor/sony" revision="temp" />
+  <project name="SuperLamic/proprietary_vendor_sony" path="vendor/sony" revision="gps" />
   <project name="SuperLamic/android_kernel_sony_msm8974" path="kernel/sony/msm8974" revision="cm-14.1" />
   <project name="SuperLamic/android_device_sony_honami" path="device/sony/honami" revision="cm-14.1" />
   <project name="SuperLamic/android_device_sony_amami" path="device/sony/amami" revision="cm-14.1" />
-  <project name="SuperLamic/android_device_sony_rhine-common" path="device/sony/rhine-common" revision="cm-14.1" />
-  <project name="SuperLamic/android_device_sony_msm8974-common" path="device/sony/msm8974-common" revision="cm-14.1" />
+  <project name="SuperLamic/android_device_sony_rhine-common" path="device/sony/rhine-common" revision="gps" />
+  <project name="SuperLamic/android_device_sony_msm8974-common" path="device/sony/msm8974-common" revision="gps" />
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" />
