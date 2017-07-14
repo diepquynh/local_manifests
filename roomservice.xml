@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="SuperLamic/proprietary_vendor_sony" path="vendor/sony" revision="cm-14.1" />
+  <project name="SuperLamic/proprietary_vendor_sony" path="vendor/sony" revision="temp" />
   <project name="SuperLamic/android_kernel_sony_msm8974" path="kernel/sony/msm8974" revision="cm-14.1" />
   <project name="SuperLamic/android_device_sony_honami" path="device/sony/honami" revision="cm-14.1" />
   <project name="SuperLamic/android_device_sony_amami" path="device/sony/amami" revision="cm-14.1" />
