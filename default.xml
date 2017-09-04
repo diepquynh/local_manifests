@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <manifest>
-	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
-	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.0"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-15.0"/>
 	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
-	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="lineage-15.0"/>
+	<project path="device/samsung/scx35-common" name="remilia15/android_device_samsung_scx35-common" remote="github" revision="lineage-15.0"/>
+	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="lineage-15.0"/>
 </manifest>
