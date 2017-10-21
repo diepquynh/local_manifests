@@ -17,6 +17,7 @@
 -->
 <manifest>
 	<project path="device/samsung/coreprimeve3g" name="remilia15/android_device_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="kernel/samsung/coreprimeve3g" name="remilia15/android_kernel_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/coreprimeve3g" name="remilia15/android_vendor_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
 </manifest>
 
