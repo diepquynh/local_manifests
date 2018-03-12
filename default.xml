@@ -13,6 +13,7 @@
      limitations under the License.
 -->
 <manifest>
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-13.0"/>
 	<project path="device/pantech/ef52l" name="remilia15/android_device_pantech_ef52l" remote="github" revision="cm-13.0"/>
 	<project path="device/pantech/msm8960-common" name="remilia15/android_device_pantech_msm8960-common" remote="github" revision="cm-13.0"/>
 	<project path="kernel/pantech/APQ8064" name="remilia15/android_kernel_pantech_apq8064" remote="github" revision="cm-13.0"/>
