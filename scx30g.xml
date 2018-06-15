@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <manifest>
-	<project path="device/samsung/scx30g-common" name="remilia15/android_device_samsung_scx30g-common" remote="github" revision="cm-14.1"/>
-	<project path="vendor/samsung/scx30g-common" name="remilia15/android_vendor_samsung_scx30g-common" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/scx30g-common" name="remilia15/android_device_samsung_scx30g-common" remote="github" revision="lineage-15.1"/>
+	<project path="vendor/samsung/scx30g-common" name="remilia15/android_vendor_samsung_scx30g-common" remote="github" revision="lineage-15.1"/>
 </manifest>
