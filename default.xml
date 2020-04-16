@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2016 The Android Open Source Project
+     Copyright (C) 2016 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<manifest>
+	<project path="device/samsung/universal8895-common" name="exynos8895/android_device_samsung_universal8895-common" remote="github" revision="lineage-17.1"/>
+	<project path="device/samsung/dreamlte" name="exynos8895/android_device_samsung_dreamlte" remote="github" revision="lineage-17.1"/>
+	<project path="device/samsung/dream2lte" name="exynos8895/android_device_samsung_dream2lte" remote="github" revision="lineage-17.1"/>
+	<project path="device/samsung/greatlte" name="exynos8895/android_device_samsung_greatlte" remote="github" revision="lineage-17.1"/>
+	<project path="kernel/samsung/universal8895" name="diepquynh/android_kernel_samsung_universal8895" remote="github" revision="pie"/>
+	<project path="vendor/samsung/universal8895-common" name="exynos8895/android_vendor_samsung_universal8895-common" remote="github" revision="lineage-17.1"/>
+	<project path="vendor/samsung/dreamlte" name="exynos8895/android_vendor_samsung_dreamlte" remote="github" revision="lineage-17.1"/>
+	<project path="vendor/samsung/dream2lte" name="exynos8895/android_vendor_samsung_dream2lte" remote="github" revision="lineage-17.1"/>
+	<project path="vendor/samsung/greatlte" name="exynos8895/android_vendor_samsung_greatlte" remote="github" revision="lineage-17.1"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-17.1"/>
+	<project path="patches" name="diepquynh/build_patches" remote="github" revision="lineage-17.1"/>
+</manifest>
+
